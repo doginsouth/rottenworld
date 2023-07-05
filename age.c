@@ -3,7 +3,7 @@
 int main () {
 int age ;
 float height ;
-printf ( " Enter your age : " ) ;
+printf ( " Text your age : " ) ;
 scanf ( " % d " , & age ) ;
 printf ( " Enter your height in meters : " ) ;
 scanf ( " % f " , & height );
